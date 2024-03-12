@@ -1,0 +1,19 @@
+{
+  "name": "cele-market-nav",
+  "version": "1.0.1",
+  "description": "A comprehensive suite for navigating NFT marketplaces, managing portfolios, and executing trades.",
+  "main": "main.js",
+  "dependencies": {
+    "nft-affinity-curator": "^1.0.0",
+    "blockchain-explorer": "^1.0.0",
+    "trade-executor": "^1.0.0",
+    "portfolio-manager": "^1.0.0",
+    "axios": "^0.21.1"
+  },
+  "author": "makaka9691",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makaka9691/cele-market-nav"
+  }
+}
